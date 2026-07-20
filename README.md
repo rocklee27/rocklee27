@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=6EE3FF&center=true&vCenter=true&width=700&lines=Ariel+Kristiawan;Software+Developer;Laravel+%7C+PHP+%7C+Go+%7C+Docker;Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=6EE3FF&center=true&vCenter=true&width=700&lines=rielseven;Software+Developer;Laravel+%7C+PHP+%7C+Go+%7C+Docker;Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps" alt="Typing SVG" />
 
 <br/>
 
