@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,go,js,ts,nodejs,react,docker,kubernetes,mysql,postgres,redis,kafka,nginx,git,github,figma,photoshop,ai,linux,bash&perline=10" />
+<img src="https://skillicons.dev/icons?i=php,laravel,go,js,ts,nodejs,react,docker,kubernetes,mysql,postgres,redis,kafka,nginx,git,github,figma,photoshop,linux,bash&perline=10" />
 
 </div>
 
